@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Hewlett-Packard Rideable Lawnmower",
+        "price": 3000,
+        "type": "Lawnmower",
+        "imageUrl": "/assets/img/lawnmowers-1.jfif",
+        "subImageUrl": "/assets/img/lawnmowers-2.jfif"
+    },
+    {
+        "id": 2,
+        "name": "Fisher Price's My First Lawnmower",
+        "price": 45,
+        "type": "Lawnmower",
+        "imageUrl": "/assets/img/lawnmowers-3.jfif",
+        "subImageUrl": "/assets/img/lawnmowers-4.jfif"
+    },
+    {
+        "id": 3,
+        "name": "Volkswagen LawnMaster 39000B Lawnmower",
+        "price": 1020,
+        "type": "Lawnmower",
+        "imageUrl": "/assets/img/lawnmowers-5.jfif",
+        "subImageUrl": "/assets/img/lawnmowers-6.jfif"
+    },
+    {
+        "id": 4,
+        "name": "Amazon Fire Burgundy Phone Case",
+        "price": 14.0,
+        "type": "Phone Case",
+        "imageUrl": "/assets/img/phonecase-1.jfif",
+        "subImageUrl": "/assets/img/phonecase-2.jfif"
+    },
+    {
+        "id": 5,
+        "name": "Nokia Lumia 920/930/Icon Crimson Phone Case",
+        "price": 10.0,
+        "type": "Phone Case",
+        "imageUrl": "/assets/img/phonecase-3.jfif",
+        "subImageUrl": "/assets/img/phonecase-4.jfif"
+    },
+    {
+        "id": 1,
+        "name": "Xamarin C# T-Shirt",
+        "price": 15.0,
+        "type": "T-Shirt",
+        "imageUrl": "/assets/img/shirt-1.jfif",
+        "subImageUrl": "/assets/img/shirt-2.jfif"
+    },
+    {
+        "id": 2,
+        "name": "New York Yankees T-Shirt",
+        "price": 8.0,
+        "type": "T-Shirt",
+        "imageUrl": "/assets/img/shirt-3.jfif",
+        "subImageUrl": "/assets/img/shirt-4.jfif"
+    },
+    {
+        "id": 3,
+        "name": "Disney Sleeping Beauty T-Shirt",
+        "price": 10.0,
+        "type": "T-Shirt",
+        "imageUrl": "/assets/img/shirt-5.jfif",
+        "subImageUrl": "/assets/img/shirt-6.jfif"
+    }
+]
